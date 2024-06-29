@@ -3,9 +3,9 @@ function add(a, b){
 }
 
 /**arrow */
-let add1=(a, b) => a+b
+let add1 = (a, b) => a+b
 
-let add2=(a, b) => {return a+b}
+let add2 = (a, b) => {return a+b}
 
 console.log(add(20, 20))
 console.log(add1(1, 2))
